@@ -1,5 +1,5 @@
-# TerritoryMoba
-A sandbox game made for fun.
+# Territory Moba
+A sandbox Moba Game made for fun.
 
 
 Discord Server for Update logs and informations about the game
