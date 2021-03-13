@@ -1,5 +1,7 @@
 # Territory Moba
-A sandbox Moba Game made for fun.
+A Moba Singleplayer made by Ngeorge
+Software Used: Game Maker 1.4,9999 Beta Steam Version
+Source Code: Deny
 
 
 Discord Server for Update logs and informations about the game
