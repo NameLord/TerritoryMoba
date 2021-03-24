@@ -1,8 +1,9 @@
 # Territory Moba
-- A Moba Singleplayer made by Ngeorge
+- A Moba Singleplayer made by NGeorge
 - Software Used: Game Maker 1.4,9999 Beta Steam Version
 - Source Code: Deny
 
 # Discord Server
 Discord Server for Update logs and informations about the game
+- Discord Dev Name: N_George#0733
 - Discord Server: https://discord.gg/RmDbRNV3nW
