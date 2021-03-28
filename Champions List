@@ -53,7 +53,7 @@ R = Passive  [Gives 0.2 Champion Size and 105 Ap]
 
 Passive = Penticular
 At Level 1 He can no longer use any consumable stat to use abbilities
-And E fuse with Henji can unlock at Level 8 and Fuse with GekDroid unlocks it at Level 14
+And R fuse with Voidness can unlock at Level 8
 Ad Lethality is now converted into ad
 0.4 Ad Lethality > 1.2 Ad
 Cannot be fused with Henji and voidness at the same time....
@@ -62,7 +62,7 @@ Q = Plasmodynamic Fires 3 Projectiles that on collision with enemy deals 0 Damag
 
 W = Omni-Hole Summon a spiritual tower that increase its Attack Damage by 1.2 every/s and the tower is decaying over time
 
-E = Fuse with Henji has doubled its stats 350+ Hp and 40 Ad and it uses same spell as Geek
+E = Passive Will do nothing for now.
 
 R = Fuse with Voidness same as Henji but it has an Black hole on center of champion that deals double the damage of your Attack Damage
 ----------------------------------------------------------------------------------------------------------------------------------------------------
