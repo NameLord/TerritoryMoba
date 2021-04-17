@@ -7,6 +7,3 @@
 Discord Server for support and informations about the game
 - Discord Dev Name: N_George#0733
 - Discord Server: https://discord.gg/RmDbRNV3nW
-
-# Github Page
-- https://github.com/NameLord/TerritoryMoba
